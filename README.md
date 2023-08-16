@@ -9,15 +9,12 @@ Besides my technical skills, I possess a compelling blend of creativity, deliver
 
 
 ### 🧠 Skills
-- JavaScript
-- React
-- HTML/CSS
+- JavaScript, React, Node
+- HTML, CSS, Styled Components
 - TypeScript
-- Styled Components
 - Storybook
 - Jest
 - GraphQL
-- Node.js
 - AWS Services
 ------
 #### Let's Connect..! 

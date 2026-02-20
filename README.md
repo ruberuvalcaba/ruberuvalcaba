@@ -20,4 +20,4 @@ about crafting intuitive, engaging, and visually stunning UI solutions.
 
 ------
 #### Let's Connect..! 
-<a href="https://www.linkedin.com/in/ruben-flores-2a91b694/" target="_blank"> <img src="https://img.shields.io/badge/Ruben-%2300acee.svg?color=2466c2&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin /></a>
+<a href="https://www.linkedin.com/in/ruberuvalcaba/" target="_blank"> <img src="https://img.shields.io/badge/Ruben-%2300acee.svg?color=2466c2&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin /></a>
